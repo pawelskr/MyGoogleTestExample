@@ -1,0 +1,34 @@
+Start testing: May 16 16:17 CEST
+----------------------------------------------------------
+1/1 Testing: ExampleTests
+1/1 Test: ExampleTests
+Command: "/Users/pawel/Documents/DEVEL/GoogleTestFirst/build/test/ExampleTests"
+Directory: /Users/pawel/Documents/DEVEL/GoogleTestFirst/build/test
+"ExampleTests" start time: May 16 16:17 CEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/pawel/Documents/DEVEL/GoogleTestFirst/googletest/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTests
+[ RUN      ] ExampleTests.DemostrateGTestMacros
+[       OK ] ExampleTests.DemostrateGTestMacros (0 ms)
+[----------] 1 test from ExampleTests (0 ms total)
+
+[----------] 1 test from ExampleTests2
+[ RUN      ] ExampleTests2.DemostrateGTestMacros2
+[       OK ] ExampleTests2.DemostrateGTestMacros2 (0 ms)
+[----------] 1 test from ExampleTests2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTests" end time: May 16 16:17 CEST
+"ExampleTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 16 16:17 CEST

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200516-1350-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Mac OS X"
+	Hostname="MacBook-Pro-PAWEL.local"
+	OSRelease="10.14.6"
+	OSVersion="18G95"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="69"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2600"
+	>
+	<Testing>
+		<StartDateTime>May 16 16:17 CEST</StartDateTime>
+		<StartTestTime>1589638676</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>/Users/pawel/Documents/DEVEL/GoogleTestFirst/build/test/ExampleTests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0109734</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/pawel/Documents/DEVEL/GoogleTestFirst/build/test/ExampleTests</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVUk1vhCAQvfMr5rgehK33HppoPfQzbrcXYxpKZ42JgGGw25/fRTab2NTGvgsMvJl5D6YajelMC1p2ZpPAwVkNYk/oSAzyiL3IrRo1Gk8iL16Le1Fa2/b4guRvO0detFPscb4lp0Qbdm+hMFeK1dcXNFCdu2YQOBTbxgBo7E4rZ3V6QQNlb99lHwloPjtnTRAFhD4dhx/kq8ibihZfUg9RL7Eaqv0jTGhmNzxHbck76bEMBw9SORv4EU93q/iw2YKmZJ2YSAZvvewTti4nW3aQ/S4pW/awlPEvF9lfNpY+zaN06Yc9mvlQLA8DOGn4vNPJ1vPNblfk4SHOmZx9AxSC5qc=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>May 16 16:17 CEST</EndDateTime>
+		<EndTestTime>1589638676</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
